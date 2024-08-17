@@ -1,4 +1,5 @@
 ## Hi there 👋
+![IdealistCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=idealistcat&show_icons=true)
 
 <!--
 **IdealistCat/IdealistCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
