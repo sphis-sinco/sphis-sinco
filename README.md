@@ -1,4 +1,5 @@
 ## Hi there 👋
+I love to code and make stuff!
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=idealistcat&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idealistcat&layout=compact)
