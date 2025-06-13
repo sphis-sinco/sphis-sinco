@@ -5,7 +5,7 @@ I love to code and make stuff!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sphis-Sinco&layout=compact&langs_count=20)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sphis-Sinco)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sphis_Sinco)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Blog
 Check out my [blog](https://thesincoblog.hashnode.dev)
